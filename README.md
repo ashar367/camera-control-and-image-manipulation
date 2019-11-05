@@ -9,8 +9,6 @@ import matplotlib.pyplot as plt
 
 import signal
 
-![Image of objects](https://github.com/ashar367/program-to-start-device-camera/blob/master/image-process.png)
-
 
 # Image manipulation
 This program written in python when executed in Jupyter notebook manipulates the images. It uses libraries:PIL, numpy, matplotlib.pyplot, cv2
