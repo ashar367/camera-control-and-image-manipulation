@@ -1,4 +1,4 @@
-# program-to-start-device-camera
+# Camera control
 This program written in python when executed in Jupyter notebook starts the device camera (laptop, desktop, mobile devices). It useful in image processing. It uses libraries:
 
 %matplotlib notebook
@@ -11,3 +11,15 @@ import signal
 
 
 ![Image of objects](https://github.com/ashar367/program-to-start-device-camera/blob/master/image-process.png)
+
+
+# Image manipulation
+This program written in python when executed in Jupyter notebook manipulates the images. It uses libraries:PIL, numpy, matplotlib.pyplot, cv2
+
+Orignal image of F-35
+![Image of objects](https://github.com/ashar367/program-to-start-device-camera/blob/master/image-process.png)
+
+Manipulated image of F-35
+![Image of objects](https://github.com/ashar367/program-to-start-device-camera/blob/master/image-process.png)
+![Image of objects](https://github.com/ashar367/program-to-start-device-camera/blob/master/image-process.png)
+
